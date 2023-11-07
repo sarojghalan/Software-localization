@@ -1,0 +1,9 @@
+{
+  "info": {
+    "one": "Practicing Localization",
+    "two": "Learn React"
+  },
+  "title": "English Localization",
+  "counter_one": "Changed language just once",
+  "counter_other": "Language has been changed {{count}} times"
+}
